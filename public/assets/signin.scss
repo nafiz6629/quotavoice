@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+// font-family: 'Lobster', cursive;
+// font-family: 'Potta One', cursive;
+//common css
+h1,h2,h3,h4,h5,h6,img,a,ul,li,*{
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+
+a,a:hover{
+    text-decoration: none;
+}
+
+ul,li{
+    list-style: none;
+    padding: 0;
+    outline: 0;
+    margin: 0;
+}
+
+//header-section starts
+.header_section{
+    background: #733DD9;
+    height: 300px;
+    nav{
+        a{
+            font-family: 'Potta One', cursive;
+            font-size: 1.5rem;   
+        }
+    }
+    .mynavbar{
+        margin-left: auto;
+        margin-right: auto;
+        a{
+            font-family: 'Potta One', cursive;
+            margin: 0px 20px;
+            font-size: 1.4rem;
+        }
+    }
+    .trust_us{
+        height: 30px;
+        background:#1BB934;
+    }
+
+
+    .signin{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5%;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-bottom: 5%;
+        padding-top: 5%;
+        // padding-top: 2%;
+        width: 30%;
+        height: 300px;
+        box-shadow: 10px 10px 50px 20px #552ea5;
+        position: relative;
+        .email , .password , .signupPart{
+            box-shadow: 5px 5px 4px 4px rgb(179, 175, 175) inset;
+        }
+        .signupPart{
+            display: none;
+        }
+        .signinbtn{
+            position: absolute;
+            bottom: -8%;
+            left: 9%;
+            width: 30%;
+        box-shadow: 10px -2px 10px 5px #5528af;
+
+        }
+        .signinbtn:active{
+        box-shadow: 10px -2px 10px -2px #5528af;
+        width: 26%;
+        bottom: -10%;
+        left: 11%;
+        }
+        .signupbtn{
+            position: absolute;
+            bottom: -8%;
+            right: 9%;
+            width: 30%;
+        box-shadow: 10px -2px 10px 5px #5528af;
+
+        }
+        .signupbtn:active{
+            box-shadow: 10px -2px 10px -2px #5528af;
+            width: 26%;
+            bottom: -10%;
+            right: 11%;
+            }
+
+    }
+
+
+}
+//header-section ends
+
+
+.signup-rotate{
+    animation: animSignup 2s linear 1;
+    
+}
+.signin-rotate{
+    animation: animSignin 2s linear 1;
+    
+}
+  
+
+
+  @keyframes animSignup {
+
+    0%{
+        transform: rotateY(180deg);
+       }
+}
+  @keyframes animSignin {
+
+    0%{
+        transform: rotateY(-180deg);
+       }
+}

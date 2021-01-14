@@ -1,0 +1,913 @@
+CRITICAL - 2020-12-26 22:42:19 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 22:44:54 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 22:44:55 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 22:44:55 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 22:44:55 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 22:44:55 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 22:45:27 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 22:46:25 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 22:50:13 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 22:53:03 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 22:59:13 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 22:59:14 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 22:59:14 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 22:59:14 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 22:59:18 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:00:50 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:00:50 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:00:51 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:29 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:29 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:30 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:32 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:50 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:51 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:52 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:52 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:52 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:52 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:52 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:53 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:53 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:54 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:01:57 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:02:36 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:02:37 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:02:52 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:22 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:22 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:23 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:23 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:23 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:23 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:24 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:24 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:24 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:03:25 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:06:21 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:06:22 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:06:22 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:06:22 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:06:24 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:02 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:02 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:03 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:03 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:03 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:03 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:04 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:46 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:46 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:47 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:47 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:55 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:07:55 --> Class 'App\Controllers\Controller' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(365): require_once()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2020-12-26 23:15:54 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 23:19:13 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\codeigniterfour\app\Views\users\create_user_session.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 53, Array)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('users\\create_us...', Array, true)
+#3 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(33): view('users\\create_us...')
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-12-26 23:23:05 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\codeigniterfour\app\Views\users\create_user_session.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 50, Array)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('users\\create_us...', Array, true)
+#3 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(33): view('users\\create_us...')
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-12-26 23:24:55 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\codeigniterfour\app\Views\users\create_user_session.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 50, Array)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('users\\create_us...', Array, true)
+#3 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(33): view('users\\create_us...')
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-12-26 23:24:55 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\codeigniterfour\app\Views\users\create_user_session.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 50, Array)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('users\\create_us...', Array, true)
+#3 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(33): view('users\\create_us...')
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-12-26 23:31:47 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\codeigniterfour\app\Views\users\create_user_session.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('users\\create_us...', Array, true)
+#3 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(33): view('users\\create_us...')
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-12-26 23:33:37 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 23:33:38 --> Call to a member function getAllCategories() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 23:37:45 --> Class 'App\Controllers\Users_model' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 23:37:46 --> Class 'App\Controllers\Users_model' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 23:37:46 --> Class 'App\Controllers\Users_model' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 23:37:46 --> Class 'App\Controllers\Users_model' not found
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-26 23:40:26 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:27 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:27 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:27 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:27 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:28 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:28 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:28 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:28 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:28 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:29 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:40:29 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:45:40 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:45:41 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:03 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:04 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:04 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:04 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:17 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:18 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:26 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:27 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:48:27 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:49:00 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:49:01 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:54:42 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-26 23:59:12 --> Declaration of App\Models\Users_model::update($data) must be compatible with CodeIgniter\Model::update($id = NULL, $data = NULL): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

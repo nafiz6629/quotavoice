@@ -1,0 +1,8 @@
+.quotation_body {
+  padding: 5% 5%;
+}
+
+.quotation_body .header_section_ label, .quotation_body .header_section_ h6 {
+  display: inline;
+}
+/*# sourceMappingURL=quotation.css.map */

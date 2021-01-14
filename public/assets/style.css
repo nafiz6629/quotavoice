@@ -1,0 +1,277 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Potta+One&display=swap");
+h1, h2, h3, h4, h5, h6, img, a, ul, li, * {
+  margin: 0;
+  outline: 0;
+  padding: 0;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+ul, li {
+  list-style: none;
+  padding: 0;
+  outline: 0;
+  margin: 0;
+}
+
+.header_section {
+  background: #733DD9;
+  height: 300px;
+}
+
+.header_section nav {
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  background: #733DD9;
+}
+
+.header_section nav a {
+  font-family: 'Potta One', cursive;
+  font-size: 1.5rem;
+}
+
+.header_section .mynavbar {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header_section .mynavbar a {
+  font-family: 'Potta One', cursive;
+  margin: 0px 20px;
+  font-size: 1.4rem;
+}
+
+.header_section .trust_us {
+  height: 30px;
+  background: #1BB934;
+}
+
+.create_quotation {
+  background: #F3F5F7;
+  height: 300px;
+}
+
+.create_quotation .trust_us {
+  background: #1BB934;
+  height: 40px;
+}
+
+.create_quotation .create {
+  width: 100%;
+  display: inline;
+  margin-left: 2%;
+}
+
+.create_quotation .create p {
+  display: inline;
+  margin-left: 10px;
+}
+
+.create_quotation .create .round_circle {
+  width: 50px;
+  height: 50px;
+  padding: 4px;
+  border-radius: 50%;
+  background: #fff;
+  border: 1px solid #000;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline;
+}
+
+.create_quotation .greater_than {
+  display: inline;
+  margin-left: 1%;
+  height: 50%;
+}
+
+.create_quotation .form_box {
+  width: 60%;
+  background: #fff;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-box-shadow: 10px 10px 30px #4d4646;
+          box-shadow: 10px 10px 30px #4d4646;
+}
+
+.create_quotation .form_box .heading {
+  width: 100%;
+  display: block;
+}
+
+.create_quotation .form_box .heading input[type="text"] {
+  height: 50px;
+  font-size: 30px;
+  border: none;
+  border-bottom: dotted #733DD9;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.create_quotation .form_box .first_part {
+  width: 100%;
+  display: block;
+}
+
+.create_quotation .form_box .first_part .row {
+  padding: 20px;
+}
+
+.create_quotation .form_box .first_part .left_input input {
+  border: none;
+  border-bottom: dotted #733DD9;
+}
+
+.create_quotation .form_box .first_part .right_input input {
+  border: none;
+  border-bottom: 1px solid #733DD9;
+}
+
+.create_quotation .form_box .first_part button {
+  height: 110px;
+}
+
+.create_quotation .form_box .first_part button span i {
+  font-size: 40px;
+}
+
+.create_quotation .form_box .second_part {
+  margin: 20px;
+}
+
+.create_quotation .form_box .second_part .row {
+  background: #fff;
+  margin: 20px;
+}
+
+.create_quotation .form_box .second_part .row .your_details {
+  background: #F7FAFF;
+}
+
+.create_quotation .form_box .second_part .row .client_details {
+  background: #F7FAFF;
+}
+
+.create_quotation .form_box .second_part .row .details_form input {
+  border: none;
+  width: 100%;
+  border-bottom: 1px solid #733DD9;
+}
+
+.create_quotation .form_box .second_part .row .details_form .divide_part input {
+  width: 38%;
+}
+
+.create_quotation .form_box .second_part .row .details_form .divide_part2 input {
+  width: 49%;
+}
+
+.create_quotation .form_box .third_part {
+  margin: 40px;
+}
+
+.create_quotation .form_box .fourth_part {
+  margin: 30px 30px;
+}
+
+.create_quotation .form_box .fourth_part .highlight {
+  background: #733DD9;
+  height: 50px;
+}
+
+.create_quotation .form_box .fourth_part .highlight p:nth-child(1) {
+  margin-left: 20px;
+  margin-top: 10px;
+  width: 32%;
+  display: inline-block;
+}
+
+.create_quotation .form_box .fourth_part .highlight p:nth-child(2) {
+  width: 9%;
+  display: inline-block;
+}
+
+.create_quotation .form_box .fourth_part .highlight p:nth-child(3) {
+  width: 9%;
+  display: inline-block;
+}
+
+.create_quotation .form_box .fourth_part .highlight p:nth-child(4) {
+  width: 15%;
+  display: inline-block;
+}
+
+.create_quotation .form_box .fourth_part .highlight p:nth-child(5) {
+  width: 17%;
+  display: inline-block;
+}
+
+.create_quotation .form_box .fourth_part .highlight p:nth-child(6) {
+  width: 10%;
+  display: inline-block;
+}
+
+.create_quotation .form_box .fourth_part .add_new_item {
+  background: #F7FAFF;
+  margin-bottom: 20px;
+}
+
+.create_quotation .form_box .fourth_part .add_new_item input {
+  border: none;
+  width: 100%;
+  border-bottom: 1px solid #733DD9;
+}
+
+.create_quotation .form_box .fifth_part .total_calculation input {
+  border: none;
+  width: 40%;
+  border-bottom: 1px solid #733DD9;
+}
+
+.create_quotation .form_box .sixth_part {
+  margin: 30px 30px;
+}
+
+.create_quotation .form_box .sixth_part .terms {
+  background: #e2e5eb;
+  margin-bottom: 30px;
+}
+
+.create_quotation .form_box .sixth_part .terms input {
+  border: none;
+  width: 95%;
+  border-bottom: 1px solid #733DD9;
+}
+
+.create_quotation .form_box .sixth_part .notes_attatchment input {
+  border: none;
+  width: 95%;
+  border-bottom: 1px solid #733DD9;
+}
+
+.create_quotation .form_box .sixth_part .notes_attatchment textarea {
+  background: #F7FAFF;
+}
+
+.create_quotation .form_box .seventh_part {
+  margin: 30px 30px;
+  background: #e2e5eb;
+}
+
+.create_quotation .form_box .seventh_part input {
+  border: none;
+  width: 30%;
+  border-bottom: 1px solid #733DD9;
+}
+
+@media (max-width: 1366px) {
+  .create_quotation .form_box {
+    width: 82%;
+  }
+}
+/*# sourceMappingURL=style.css.map */

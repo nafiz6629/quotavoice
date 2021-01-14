@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,eAAe,CAAA;EACX,OAAO,EAAE,KAAK;CAQjB;;AATD,AAIQ,eAJO,CAGX,gBAAgB,CACZ,KAAK,EAJb,eAAe,CAGX,gBAAgB,CACN,EAAE,CAAA;EACJ,OAAO,EAAE,MAAM;CAClB",
+    "sources": [
+        "quotation.scss"
+    ],
+    "names": [],
+    "file": "quotation.css"
+}

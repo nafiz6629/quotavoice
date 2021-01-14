@@ -1,0 +1,250 @@
+CRITICAL - 2021-01-12 02:20:05 --> json_decode() expects parameter 1 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_decode() e...', 'C:\\Users\\Atik\\D...', 69, Array)
+#1 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(69): json_decode(Array)
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#7 {main}
+CRITICAL - 2021-01-12 02:24:58 --> Cannot use object of type stdClass as array
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 02:25:31 --> Cannot use object of type stdClass as array
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 03:20:54 --> Object of class stdClass could not be converted to string
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 03:42:10 --> Cannot use object of type stdClass as array
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home/quotation', Array, true)
+#2 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(78): view('home/quotation', Array)
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#8 {main}
+CRITICAL - 2021-01-12 03:43:10 --> Object of class stdClass could not be converted to string
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 03:43:19 --> Object of class stdClass could not be converted to string
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 04:44:37 --> Object of class stdClass could not be converted to string
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 04:44:46 --> Cannot use object of type stdClass as array
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 04:47:07 --> Cannot use object of type stdClass as array
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 04:47:25 --> Object of class stdClass could not be converted to string
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 04:48:03 --> Cannot use object of type stdClass as array
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 04:51:14 --> Invalid argument supplied for foreach()
+#0 C:\Users\Atik\Desktop\refrens\app\Views\home\quotation.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\Users\\Atik\\D...', 175, Array)
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Atik\\D...')
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home/quotation', Array, true)
+#3 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(82): view('home/quotation', Array)
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#6 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#9 {main}
+CRITICAL - 2021-01-12 04:51:22 --> Invalid argument supplied for foreach()
+#0 C:\Users\Atik\Desktop\refrens\app\Views\home\quotation.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\Users\\Atik\\D...', 175, Array)
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Atik\\D...')
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home/quotation', Array, true)
+#3 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(82): view('home/quotation', Array)
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#6 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#9 {main}
+CRITICAL - 2021-01-12 04:51:36 --> Invalid argument supplied for foreach()
+#0 C:\Users\Atik\Desktop\refrens\app\Views\home\quotation.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\Users\\Atik\\D...', 175, Array)
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Atik\\D...')
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home/quotation', Array, true)
+#3 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(82): view('home/quotation', Array)
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#6 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#9 {main}
+CRITICAL - 2021-01-12 06:00:54 --> Object of class stdClass could not be converted to string
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->my_quotation()
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 06:05:06 --> Object of class stdClass could not be converted to string
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home/myquotatio...', Array, true)
+#2 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(60): view('home/myquotatio...', Array)
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->my_quotation()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#8 {main}
+CRITICAL - 2021-01-12 06:23:05 --> Too few arguments to function App\Controllers\QuotationController::myquotation_by_id(), 0 passed in C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 3 expected
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 06:23:05 --> Too few arguments to function App\Controllers\QuotationController::myquotation_by_id(), 2 passed in C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 3 expected
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 06:23:41 --> Invalid file: home//quotation.php
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home//quotation...')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home//quotation', Array, true)
+#2 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(87): view('home//quotation', Array)
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id('37', '4')
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#8 {main}
+CRITICAL - 2021-01-12 06:24:29 --> Invalid file: home//quotation.php
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home//quotation...')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home//quotation', Array, true)
+#2 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(87): view('home//quotation', Array)
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#8 {main}
+CRITICAL - 2021-01-12 06:24:37 --> Invalid file: home//quotation.php
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home//quotation...')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home//quotation', Array, true)
+#2 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(87): view('home//quotation', Array)
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#8 {main}
+CRITICAL - 2021-01-12 06:26:12 --> Invalid argument supplied for foreach()
+#0 C:\Users\Atik\Desktop\refrens\app\Views\home\layouts\layout-1.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\Users\\Atik\\D...', 99, Array)
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\Users\\Atik\\D...')
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home/layouts/la...', Array, true)
+#3 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(87): view('home/layouts/la...', Array)
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#6 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#9 {main}
+CRITICAL - 2021-01-12 06:28:15 --> syntax error, unexpected '}', expecting ';'
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('QuotationContro...')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('QuotationContro...')
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#6 {main}
+CRITICAL - 2021-01-12 06:28:28 -->  route cannot be found while reverse-routing.
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(845): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(94): redirect('QuotationContro...')
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#8 {main}
+CRITICAL - 2021-01-12 06:28:38 -->  route cannot be found while reverse-routing.
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Common.php(845): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\Users\Atik\Desktop\refrens\app\Controllers\QuotationController.php(94): redirect('QuotationContro...')
+#3 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#5 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#8 {main}
+CRITICAL - 2021-01-12 06:29:21 --> Too few arguments to function App\Controllers\QuotationController::myquotation_by_id(), 0 passed in C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 3 expected
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 06:30:21 --> Too few arguments to function App\Controllers\QuotationController::myquotation_by_id(), 0 passed in C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 3 expected
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 06:30:24 --> Too few arguments to function App\Controllers\QuotationController::myquotation_by_id(), 0 passed in C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 3 expected
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}
+CRITICAL - 2021-01-12 06:30:26 --> Too few arguments to function App\Controllers\QuotationController::myquotation_by_id(), 0 passed in C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 3 expected
+#0 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\QuotationController->myquotation_by_id()
+#1 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QuotationController))
+#2 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Atik\Desktop\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Atik\Desktop\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Atik\\D...')
+#5 {main}

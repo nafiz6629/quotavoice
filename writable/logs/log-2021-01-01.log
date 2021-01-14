@@ -1,0 +1,11 @@
+CRITICAL - 2021-01-01 22:06:17 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\ci4\app\Models\Users_model.php(202): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Users.php(228): App\Models\Users_model->getAllCategories()
+#4 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#5 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}

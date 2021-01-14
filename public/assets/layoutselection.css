@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Potta+One&display=swap");
+.header_section {
+  background: #733DD9;
+  height: 100px;
+}
+
+.header_section nav a {
+  font-family: 'Potta One', cursive;
+  font-size: 1.5rem;
+}
+
+.header_section .mynavbar {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header_section .mynavbar a {
+  font-family: 'Potta One', cursive;
+  margin: 0px 20px;
+  font-size: 1.4rem;
+}
+
+.slider_section a {
+  margin-left: 40%;
+}
+
+.slider_section img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.layout_image {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=layoutselection.css.map */

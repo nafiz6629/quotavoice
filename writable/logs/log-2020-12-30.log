@@ -1,0 +1,167 @@
+CRITICAL - 2020-12-30 00:00:40 --> Call to a member function getJSON() on null
+#0 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-12-30 00:02:48 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(NULL)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 00:06:17 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 175
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(175): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:06:45 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 175
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(175): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:08:07 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 175
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(175): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:08:13 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 175
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(175): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:15:25 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 177
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(177): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:15:51 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 177
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(177): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:18:10 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 177
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(177): CodeIgniter\Database\BaseBuilder->update('users', NULL)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:18:43 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 177
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(177): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:21:22 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 177
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(177): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:22:57 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::update() must be of the type array or null, string given, called in C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php on line 178
+#0 C:\xampp\htdocs\codeigniterfour\app\Models\Users_model.php(178): CodeIgniter\Database\BaseBuilder->update('users', Array)
+#1 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#4 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-12-30 00:24:57 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 00:25:36 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 01:00:09 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+#0 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(111): App\Models\Users_model->updateUserOnChange(Array)
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->updateUserOnChange()
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 02:09:20 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::sum()
+#0 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(66): App\Models\Users_model->getDatatable()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->getDatatablePost()
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 02:09:38 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::sum()
+#0 C:\xampp\htdocs\codeigniterfour\app\Controllers\Users.php(66): App\Models\Users_model->getDatatable()
+#1 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->getDatatablePost()
+#2 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniterfour\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniterfour\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-12-30 06:05:40 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\ci4\app\Models\Users_model.php(144): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\ci4\app\Controllers\Users.php(210): App\Models\Users_model->getAllCategories()
+#4 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->createUserUsingSession()
+#5 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-12-30 10:41:02 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}

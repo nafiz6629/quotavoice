@@ -1,0 +1,218 @@
+CRITICAL - 2021-01-05 00:51:13 --> Call to undefined method CodeIgniter\Session\Session::unset()
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signinCheck()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:23:31 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:26:19 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:26:52 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:28:50 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:28:54 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:29:21 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:30:14 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:30:40 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:34:22 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:34:59 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:37:44 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:38:34 --> Class 'App\Models\Usermodel' not found
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signupSubmit()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 01:55:33 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\xampp\htdocs\refrens\app\Controllers\Home.php(65): App\Models\Usermodel->signinSubmit(Array)
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signinSubmit()
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-01-05 01:55:38 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\xampp\htdocs\refrens\app\Controllers\Home.php(65): App\Models\Usermodel->signinSubmit(Array)
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signinSubmit()
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-01-05 01:57:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::num_rows()
+#0 C:\xampp\htdocs\refrens\app\Controllers\Home.php(65): App\Models\Usermodel->signinSubmit(Array)
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signinSubmit()
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-01-05 02:00:25 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+#0 C:\xampp\htdocs\refrens\app\Controllers\Home.php(65): App\Models\Usermodel->signinSubmit(Array)
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signinSubmit()
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-01-05 02:06:44 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('home/index', Array, true)
+#1 C:\xampp\htdocs\refrens\app\Controllers\Home.php(9): view('home/index')
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-01-05 02:20:29 --> Object of class stdClass could not be converted to string
+#0 C:\xampp\htdocs\refrens\app\Controllers\Home.php(65): App\Models\Usermodel->signinSubmit(Array)
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signinSubmit()
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-01-05 02:21:39 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\refrens\app\Controllers\Home.php(65): App\Models\Usermodel->signinSubmit(Array)
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->signinSubmit()
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-01-05 11:09:32 --> Call to a member function getPost() on null
+#0 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->submitQuotation()
+#1 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-05 11:45:55 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in C:\xampp\htdocs\refrens\app\Models\Usermodel.php on line 22
+#0 C:\xampp\htdocs\refrens\app\Models\Usermodel.php(22): CodeIgniter\Database\BaseBuilder->insert('iVBORw0KGgoAAAA...')
+#1 C:\xampp\htdocs\refrens\app\Controllers\Home.php(84): App\Models\Usermodel->insertimg('iVBORw0KGgoAAAA...')
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->submitQuotation()
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-01-05 11:46:10 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in C:\xampp\htdocs\refrens\app\Models\Usermodel.php on line 22
+#0 C:\xampp\htdocs\refrens\app\Models\Usermodel.php(22): CodeIgniter\Database\BaseBuilder->insert('iVBORw0KGgoAAAA...')
+#1 C:\xampp\htdocs\refrens\app\Controllers\Home.php(84): App\Models\Usermodel->insertimg('iVBORw0KGgoAAAA...')
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->submitQuotation()
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-01-05 11:46:54 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in C:\xampp\htdocs\refrens\app\Models\Usermodel.php on line 22
+#0 C:\xampp\htdocs\refrens\app\Models\Usermodel.php(22): CodeIgniter\Database\BaseBuilder->insert('iVBORw0KGgoAAAA...')
+#1 C:\xampp\htdocs\refrens\app\Controllers\Home.php(84): App\Models\Usermodel->insertimg('iVBORw0KGgoAAAA...')
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->submitQuotation()
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-01-05 11:47:19 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in C:\xampp\htdocs\refrens\app\Models\Usermodel.php on line 22
+#0 C:\xampp\htdocs\refrens\app\Models\Usermodel.php(22): CodeIgniter\Database\BaseBuilder->insert('iVBORw0KGgoAAAA...')
+#1 C:\xampp\htdocs\refrens\app\Controllers\Home.php(84): App\Models\Usermodel->insertimg('iVBORw0KGgoAAAA...')
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->submitQuotation()
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-01-05 11:50:18 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in C:\xampp\htdocs\refrens\app\Models\Usermodel.php on line 22
+#0 C:\xampp\htdocs\refrens\app\Models\Usermodel.php(22): CodeIgniter\Database\BaseBuilder->insert('iVBORw0KGgoAAAA...')
+#1 C:\xampp\htdocs\refrens\app\Controllers\Home.php(84): App\Models\Usermodel->insertimg('iVBORw0KGgoAAAA...')
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->submitQuotation()
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-01-05 11:50:45 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in C:\xampp\htdocs\refrens\app\Models\Usermodel.php on line 23
+#0 C:\xampp\htdocs\refrens\app\Models\Usermodel.php(23): CodeIgniter\Database\BaseBuilder->insert('iVBORw0KGgoAAAA...')
+#1 C:\xampp\htdocs\refrens\app\Controllers\Home.php(84): App\Models\Usermodel->insertimg('iVBORw0KGgoAAAA...')
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->submitQuotation()
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-01-05 11:53:13 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in C:\xampp\htdocs\refrens\app\Models\Usermodel.php on line 23
+#0 C:\xampp\htdocs\refrens\app\Models\Usermodel.php(23): CodeIgniter\Database\BaseBuilder->insert('iVBORw0KGgoAAAA...')
+#1 C:\xampp\htdocs\refrens\app\Controllers\Home.php(84): App\Models\Usermodel->insertimg('iVBORw0KGgoAAAA...')
+#2 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->submitQuotation()
+#3 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\refrens\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\refrens\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
