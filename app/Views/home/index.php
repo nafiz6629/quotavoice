@@ -127,7 +127,18 @@
                      <div class="col-md-6  text-right">
                             <div style="margin-left: 30%; width: 60%;" class="drag-drop text-center">
                                 <form action="<?=base_url("/photoupload")?>" class="dropzone" id="my-awesome-dropzone" enctype="multipart/form-data" method="post">
-                                    <h5>Business Logo Here</h5>
+                                    <?php
+                                    if($user[0]->user_business_logo){
+                                            ?>
+                                            <img height="180px" src="data:image/png;base64,<?=$user[0]->user_business_logo?>" alt="">
+                                            <?php
+                                    }
+                                    else{
+                                        ?>
+                                        <h5>Business Logo Here</h5>
+                                        <?php
+                                    }
+                                    ?>
                                 </form>
                             </div>
                      </div>
@@ -150,13 +161,13 @@
                                   <input type="text" value="<?=$user[0]->user_name?>" id="yourBusinessName" placeholder="Business / Freelancer Name (REQUIRED)">
                                   <div class="divide_part mt-5 mb-3">
                                         <input type="text" id="yourEmail" value="<?=$user[0]->user_email?>" placeholder="Your email">
-                                        <select class="fomr-control">
+                                        <select id="phone_country" class="fomr-control">
                                             <option selected>Choose...</option>
-                                            <option <?php $user[0]->user_country=="bangladesh" ? $country="selected" : $country=""?> <?=$country?> value="bangladesh">Bangladesh</option>
-                                            <option <?php $user[0]->user_country=="india" ? $country="selected" : $country=""?> <?=$country?> value="india">India</option>
-                                            <option <?php $user[0]->user_country=="china" ? $country="selected" : $country=""?> <?=$country?> value="china">China</option>
+                                            <option <?php $user[0]->user_country=="bangladesh" ? $country="selected" : $country=""?> <?=$country?> value="bangladesh">Bangladesh +880</option>
+                                            <option <?php $user[0]->user_country=="india" ? $country="selected" : $country=""?> <?=$country?> value="india">India +91</option>
+                                            <option <?php $user[0]->user_country=="china" ? $country="selected" : $country=""?> <?=$country?> value="china">China +86</option>
                                         </select>
-                                        <input type="number" id="yourPhone"  value="<?=$user[0]->user_phone_no?>"  placeholder="phone no">
+                                        <input type="number" onKeyPress="if(this.value.length==10) return false;"  id="yourPhone" min="0"   value="<?=$user[0]->user_phone_no?>"  placeholder="phone no">
                                   </div>
                                   <div class="divide_part2 mt-5 mb-3">
                                         <input type="text" id="yourGstin" placeholder="Enter your GSTIN (Optional)">
@@ -168,7 +179,7 @@
                                     <input type="text" id="yourCity" value="<?=$user[0]->user_city?>" placeholder="City">
     
                                     
-                                    <input type="number" id="yourZipCode" placeholder="Postal Code / Zip Code">
+                                    <input type="number" id="yourZipCode" value="<?=$user[0]->user_postal_zip?>" placeholder="Postal Code / Zip Code">
                                  </div>
                                  <select id="yourState" class="custom-select">
                                     <option selected>Choose Sate...</option>
@@ -200,13 +211,13 @@
                                      <input type="text" id="clientBusinessName" placeholder="Client's business name (REQUIRED)">
                                      <div class="divide_part mt-5 mb-3">
                                            <input type="text" id="clientEmail" placeholder="Your email">
-                                           <select class="fomr-control">
+                                           <select id="client_phone_country" class="fomr-control">
                                                <option selected>Choose...</option>
-                                               <option value="bangladesh">Bangladesh</option>
-                                               <option value="india">India</option>
-                                               <option value="china">China</option>
+                                               <option value="bangladesh">Bangladesh +880</option>
+                                               <option value="india">India +91</option>
+                                               <option value="china">China +86</option>
                                            </select>
-                                           <input type="number" id="clientPhone" placeholder="phone no">
+                                           <input type="number" min="0" onKeyPress="if(this.value.length==10) return false;" id="clientPhone" placeholder="phone no">
                                      </div>
                                      <div class="divide_part2 mt-5 mb-3">
                                            <input type="text" id="clientGstin" placeholder="Enter your GSTIN (Optional)">
@@ -380,9 +391,9 @@
                     <div class="col-md-12 m-2">
                         <h6 class="pb-2" style="color: #51618A;" >Your Contact Details</h6>
                         <label for="">For any enquiry, reach out via email at</label>
-                        <input type="email" id="enquiryemailid" placeholder="email here">
+                        <input type="email" id="enquiryemailid" value="<?=$user[0]->user_email?>" placeholder="email here">
                         <label for="">or call on</label>
-                        <input type="text" id="enquiryphoneid" placeholder="+880">
+                        <input type="text" id="enquiryphoneid" value="<?=$user[0]->user_phone_no?>" placeholder="+880">
                     </div>
                 </div>
                 <a id="submitBtnid" style="background-color: #733DD9; color: #ddd;" class="btn">Save & Continue</a>
@@ -406,6 +417,46 @@
     <script src="<?= base_url("assets/jquery-ui.js")?>"></script>
     <script src="<?= base_url("assets/myscript.js")?>"></script>
     <script src="<?= base_url("assets/addfields.js")?>"></script>
+
+    // <script>
+    // $('#phone_country').change(function(){
+    //     if($(this).val()=="bangladesh"){
+    //         var phone = $('#yourPhone').val();
+    //         if(phone[0]!="+"){
+    //             phone="+880"+phone;
+    //         }
+    //         else{
+    //             phone = "+880";
+    //         }
+    //         $('#yourPhone').val(phone);
+           
+    //     }
+    //     else if($(this).val()=="india"){
+
+    //         var phone = $('#yourPhone').val();
+    //         if(phone[0]!="+"){
+    //             phone="+91"+phone;
+    //         }
+    //         else{
+    //             phone = "+91";
+    //         }
+    //         $('#yourPhone').val(phone);
+
+    //     }
+    //     else{
+
+    //         var phone = $('#yourPhone').val();
+    //         if(phone[0]!="+"){
+    //             phone="+86"+phone;
+    //         }
+    //         else{
+    //             phone = "+86";
+    //         }
+    //         $('#yourPhone').val(phone);
+
+    //     }
+    // });
+    // </script>
     
     <script>
     var grandTotal=0;

@@ -69,7 +69,7 @@ class Quotationmodel extends Model{
     {
         $session = session();
         $db = db_connect();
-        $sql = "SELECT * FROM clients INNER JOIN quotations ON clients.client_id=quotations.client_id";
+        $sql = "SELECT * FROM clients INNER JOIN quotations ON clients.client_id=quotations.client_id  WHERE quotations.user_id=".$session->get("loginid");
         $query = $db->query($sql);
         return $query->getResult();
         
